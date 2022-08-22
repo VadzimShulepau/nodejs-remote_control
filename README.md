@@ -1,4 +1,4 @@
-> ##Static http server and base task packages.
+## Static http server and base task packages.
 
 ### Installation
 1. Clone/download repo
